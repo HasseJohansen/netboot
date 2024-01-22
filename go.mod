@@ -1,4 +1,4 @@
-module go.universe.tf/netboot
+module github.com/hassejohansen/netboot
 
 require (
 	github.com/google/go-cmp v0.5.9
